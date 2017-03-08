@@ -1,4 +1,6 @@
-Start of ReadMe
+BigData Analytics
+
+Computing financial risk factor and decrease in cost of functions using feed forward neural network(SGD) I am using feed forward neural networks with 3 layers and Stocastic gradient Descent function to reduce the cost of the function and also backpropogation to reducte cost efficiency.
 
 Dependencies:
 To execute code you do not need a GPU, but please make sure you have your dependencies —
