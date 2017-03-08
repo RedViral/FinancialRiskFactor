@@ -24,8 +24,9 @@ Structure of files and folders is:
 /src/network2.py
 /src/mnist_loader.py
 /src/main.py
-/data/training_data.csv
-/data/test_data.csv
-/data/validation_data.csv (Please note we did not create validation data for this implementation.)
+/data/(Your training data)
+/data/(Your test data)
+/data/(Your training data,please note that there is no validation data for this implementation.)
 
+There is space for lot of coreection in this file so please add or edit the structure for the best result. The code does need many improvements and posting back the changes whould help future problem solvers.
 EOF
