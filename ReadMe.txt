@@ -28,5 +28,5 @@ Structure of files and folders is:
 /data/(Your test data)
 /data/(Your training data,please note that there is no validation data for this implementation.)
 
-There is space for lot of coreection in this file so please add or edit the structure for the best result. The code does need many improvements and posting back the changes whould help future problem solvers.
+There is space for lot of correction in this file so please add or edit the structure for the best result. The code does need many improvements and posting back the changes whould help future problem solvers.
 EOF
